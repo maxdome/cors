@@ -1,5 +1,5 @@
 {
-  "name": "cors",
+  "name": "mxd-cors",
   "version": "2.7.1",
   "author": "Troy Goode <troygoode@gmail.com> (https://github.com/troygoode/)",
   "description": "middleware for dynamically or statically enabling CORS in express/connect applications",
